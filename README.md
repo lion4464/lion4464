@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oripov Rustamjon
 - 👀 I’m interested in Java Web development and problem solusion of Algorythm
-- 🌱 I’m currently learning Java Spring framework I can write code and I know Java core,OOP,Collection Frameworks,Thread,JSP,Servlet
+- 🌱 I’m currently learning Java Spring boot and framework I can write code and I know Java core,OOP,Collection Frameworks,Spring boot ,Spring Core,Spring framework,PostgreSql,Mysql,SQlite Dbs as well as Thread,JSP,Servlet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me herofirst4464@gmail.com
 
