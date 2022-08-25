@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ##  ✔ Technologies 
 
  ### Languages⚡
-<img src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=C++&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Skills 🚀
 • Core Java <br />
