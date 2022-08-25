@@ -41,6 +41,9 @@ You can click the Preview link to take a look at your changes.
 	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=lion4464&show_icons=true&theme=midnight-purple" />
 	
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lion4464&theme=highcontrast" />
+</p>
+
+<p align="center">
 	<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lion4464&layout=midnight-purple"/>
 </p>
 
