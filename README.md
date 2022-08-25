@@ -17,16 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 🎓 About me
-• I’m working in PROGRAMMING AREA. <br />
-•  Java Backend Developer.<br />
-
-
-##  ✔ Technologies 
-
- ### Languages⚡
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
 ### Skills 🚀
 • Core Java <br />
 • Servlet   <br />
