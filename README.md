@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 Stats
 <p align="center">
-	<img width="33%" src="https://camo.githubusercontent.com/e7c29a95a1a41235de85523c5bce85eff442b9eaeb1e126eefd41ddb5a0a3785/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lion4464&show_icons=true&theme=bg_color" />
+	<img width="33%" src="https://camo.githubusercontent.com/e7c29a95a1a41235de85523c5bce85eff442b9eaeb1e126eefd41ddb5a0a3785/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" data-src="https://github-readme-stats.vercel.app/api?username=lion4464&show_icons=true&theme=bg_color" />
 	
   <img width="33%"  src="https://github-readme-streak-stats.herokuapp.com/?user=lion4464&theme=highcontrast" />
 	<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lion4464&layout=compact"/>
