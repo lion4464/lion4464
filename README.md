@@ -14,13 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="herofirst4464@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/janmejay30">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
 
-<a href="https://www.youtube.com/channel/UC25BPVeQLy1F3FMIjULET6A">
-	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 <br>
 
 ## 🎓 About me
