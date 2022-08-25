@@ -53,9 +53,9 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 <p align="center">
 	<img width="33%" src="https://github-readme-stats.vercel.app/api?username=lion4464&show_icons=true&theme=highcontrast" />
-	<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lion4464&layout=compact/>
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=lion4464&theme=highcontrast" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
