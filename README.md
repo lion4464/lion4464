@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Oripov Rustamjon
+- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Oripov Rustamjon
 - 👀 I’m interested in Java Web development and problem solusion of Algorythm
 - 🌱 I’m currently learning Java Spring boot and framework I can write code and I know Java core,OOP,Collection Frameworks,Spring boot ,Spring Core,Spring framework,PostgreSql,Mysql,SQlite Dbs as well as Thread,JSP,Servlet
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me herofirst4464@gmail.com
 
 <!---
 lion4464/lion4464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,12 +8,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Janmejay](https://www.linkedin.com/in/janmejay-yadav-a29470190/)🦥!!
-
-<a href="https://www.linkedin.com/in/janmejay-yadav-a29470190/">
+<a href="https://www.linkedin.com/in/rustambek-oripov-73474022b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:janmejay.yadav.1234@gmail.com">
+<a href="herofirst4464@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
 <a href="https://twitter.com/janmejay30">
@@ -28,9 +24,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 🎓 About me
-• I’m working in TCS. <br />
-• Full Stack Java Developer.<br />
-• DevOps and Cloud Enthusiast.
+• I’m working in PROGRAMMING AREA. <br />
+•  Java Backend Developer.<br />
 
 
 ##  ✔ Technologies 
@@ -45,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 • JDBC <br />
 • Hibernate  <br />
 • Spring Framework  <br />
+• Spring Boot <br />
 • Mongo DB  <br />
+• Postgresql  <br />
 • MySQL  <br />
-• HTML  <br />
-• CSS   <br />
 ### DevOps💙 
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
@@ -58,16 +53,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
-## Achivements 🏆
 
-🚀 [Earn Gold Badge in Java ](https://www.hackerrank.com/certificates/a1c459a71796) <br /><br />
-🚀 [Completed 200 + DSA Question in GeeksForGeeks](https://auth.geeksforgeeks.org/user/janmejayy/practice/)
-<!-- ![visitors](https://profile-counter.glitch.me/Vrukshali-26/count.svg?align=center)  -->
 
-<!-- ## Global Certification 🎓
-
-👉🏻[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br>
-👉🏻[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br> -->
 
 ## 📈 Stats
 <p align="center">
