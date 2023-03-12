@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 • Mongo DB  <br />
 • Postgresql  <br />
 • MySQL  <br />
+• Telegram bot <br />
 
 ### Cloud ☁
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
